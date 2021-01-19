@@ -6,7 +6,7 @@ import constants, { actionTypes } from './constants';
 import middleware, { CALL_FIRESTORE } from './middleware';
 import { getSnapshotByObject } from './utils/query';
 
-// converted with transform-inline-environment-variables
+// converted with transform-inline-environment-variables ask
 export const version = process.env.npm_package_version;
 
 export {
